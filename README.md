@@ -49,6 +49,6 @@ After deployment of the contract the following functions are available:
     * Sends an ETH transaction within the dailylimit. The dailylimit is applicable for the owners collectively.
     
 ## License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
 
    
