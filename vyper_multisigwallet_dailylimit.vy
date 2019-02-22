@@ -400,40 +400,4 @@ def dailylimit_resetAmount():
     if self.dailylimit_newendtime < block.timestamp:
         if self.dailylimit > self.dailylimit_restAmount:
             self.dailylimit_restAmount = self.dailylimit
-        
-        
-    
-    
-    
-            
-            
-            
-        
-    
-                            
-                            
-            
-            
-            
-            
-            
-    
-            
-            
-            
-            
-    
-    
-                        
-            
-    
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+          
