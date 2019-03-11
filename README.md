@@ -2,6 +2,10 @@
 
 Vyper basic multisignature wallet - WARNING: NOT AUDITED USE AT YOUR OWN RISK
 
+
+## Deploy the multisignature contract
+Note: compile the contract using vyper vyper 0.1.0b7 -> the new version(s) of vyper contain a breaking change for the use of "del" and the syntax of mappings.
+
 ## Overview of the multisignature contract
 The multisignature wallet contains multiple functions. Below is an overview of the parameters and functions of the contract.
 
